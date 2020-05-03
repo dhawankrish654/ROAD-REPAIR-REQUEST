@@ -53,7 +53,7 @@ The working with snapshots of the application is explained below.
 Firstly someone has to download the latest version of Android Studio
 i.e. 3.6 and clone the repo or download the project and extract it.
 
-![](.//media/image1.jpeg){width="3.171527777777778in" height="4.0625in"}
+![](.//media/image1.jpeg)
 
 (The landing page of the application where the user has to select
 his/her role)
