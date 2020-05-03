@@ -68,8 +68,7 @@ password for the repairing agents so that they could locate the site of
 repair. Then the drivers should download the app and login under the
 agents section and set out through out the city with repair workers.
 
-![](.//media/image2.jpeg){width="2.2604166666666665in"
-height="2.5625in"}
+![](.//media/image2.jpeg)
 
 (The login/registration page for the customer/agents.)
 
@@ -85,13 +84,9 @@ photos of the site) available and the customer would have too update the
 photo of the condition too with his/her details so that they can be
 delivered to the driver.(CUSTOMER INTERFACE SHOWN BELOW)
 
-![](.//media/image3.jpeg){width="3.2708333333333335in"
-height="3.4789009186351705in"}
-![](.//media/image4.jpeg){width="3.0729166666666665in"
-height="4.4375in"}
+![](.//media/image3.jpeg)   ....  ![](.//media/image4.jpeg)
 
-![](.//media/image5.jpeg){width="3.439990157480315in"
-height="6.114583333333333in"}
+![](.//media/image5.jpeg)
 
 (Driver's interface after receiving a request)
 
@@ -99,7 +94,7 @@ Once a driver gets a request he would shift under the drivers working
 criteria the database and set out for the location with complete map
 guidance and start the repair work.
 
-![](.//media/image6.png){width="6.268055555555556in" height="4.21875in"}
+![](.//media/image6.png)
 
 (Firebase Realtime Database)
 
